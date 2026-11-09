@@ -1,0 +1,11 @@
+age,sexe,typedouleur,angine,coeur,tauxmax,sucre,depression
+62,feminin,C,non,absence,155,oui,2.42
+30,masculin,D,non,absence,183,non,2.04
+37,masculin,B,oui,presence,190,non,2.12
+63,masculin,C,non,presence,147,oui,1.61
+72,feminin,A,non,absence,138,oui,1.53
+59,feminin,D,oui,presence,164,non,2.12
+32,feminin,C,oui,presence,188,non,2.12
+71,feminin,C,non,absence,157,non,1.41
+29,masculin,A,oui,absence,174,oui,1.23
+48,feminin,D,oui,presence,187,non,1.23
